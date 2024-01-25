@@ -21,7 +21,4 @@ The dataset for this project consists of twitter text data, each entry labeled w
 [Dataset Source](https://www.kaggle.com/datasets/parulpandey/emotion-dataset)
 
 ## Approach
-The approach to tackling this problem involves a series of steps, starting from initial data exploration and preprocessing to model building, evaluation, and refinement. The project will clean and preprocess the text data to remove noise and standardize the format. Next, it will perform feature engineering to transform the text data into a format suitable for model input. Different machine learning models will be experimented with, their performance evaluated, and the best-performing model fine-tuned to enhance its predictive accuracy.
-
-## Expected Outcomes
-By the end of this project, it is expected to have a well-performing model that can accurately classify text into specific emotions. This model will provide valuable insights and serve as a tool for further applications in emotion analysis across various domains.
+The approach to tackling this problem involves a series of steps, starting from initial data exploration and preprocessing to model building, evaluation, and refinement. The project will clean and preprocess the text data to remove noise and standardize the format. Next, it will perform feature engineering to transform the text data into a format suitable for model input. A machine learning model will be experimented with, its performance evaluated, then fine-tuned to enhance its predictive accuracy.
