@@ -16,7 +16,7 @@ Before running this project, ensure you have the following installed:
 - Necessary Python libraries: `pandas`, `numpy`, `sklearn`, `transformers`, `torch`, HuggingFace's `datasets`(These can be installed via pip or conda)
 
 ## Dataset Description
-The dataset for this project consists of twitter text data, each entry labeled with the corresponding emotion. The text data includes a diverse collection of sentences, phrases, and expressions, representing various contexts and scenarios.
+The dataset for this project consists of English Twitter messages, each entry labelled with one of the six basic emotions: anger, fear, joy, love, sadness, and surprise. The text data includes a diverse collection of sentences, phrases, and expressions, representing various contexts and scenarios.
 
 [Dataset Source](https://www.kaggle.com/datasets/parulpandey/emotion-dataset)
 
